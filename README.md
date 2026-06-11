@@ -1,6 +1,5 @@
-<!-- Sleek Cyberpunk Header Banner -->
 <p align="center">
-  <img src="dither butterly.gif" alt="Reshan Hameed Header Banner" width="100%">
+  <img src="dither butterly.gif" alt="Reshan Hameed Header Banner" width="50%">
 </p>
 
 <!-- Title and Bio -->
