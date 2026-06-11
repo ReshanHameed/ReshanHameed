@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="dither butterly.gif" alt="Reshan Hameed Header Banner" width="50%">
+  <img src="dither butterly.gif" alt="Reshan Hameed Header Banner" width="75%">
 </p>
 
 <!-- Title and Bio -->
