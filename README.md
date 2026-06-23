@@ -59,6 +59,6 @@ I am an AI/ML Engineer and Computer Vision developer dedicated to building local
 <hr/>
 
 ### 📬 Connect With Me
-- 💼 **LinkedIn**: [Reshan Hameed](www.linkedin.com/in/reshan-hameed) 
+- 💼 **LinkedIn**: [Reshan Hameed](https://www.linkedin.com/in/reshan-hameed-b36bb4308/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_verification_details%3B9YMzQ2DES6yFRryQB3dszQ%3D%3D) 
 - 📧 **Email**: [rishrish914@gmail.com](mailto:reshanhameed@example.com)
 - 🌐 **Portfolio**: [Reshan Hameed](https://reshan-portfolio-2026.vercel.app/)
